@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @awiancoder
+- 👋 Hi, I’m @pawiancoder
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & Java
 
 
 <!---
